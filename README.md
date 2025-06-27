@@ -8,6 +8,8 @@ My current research interests are human-computer interactions, visualization, hu
 
 ## Tech-stack
 
+I am proficient in full-stack data science, web visualization, and game development. 
+
 ### Programming Skills
 
 - Advanced: Typescript/Javascript, Python, Unity 3D
@@ -17,5 +19,5 @@ My current research interests are human-computer interactions, visualization, hu
 ### Workflows
 
 - Advanced: ML Workflow(Pytorch, huggingface, Transformers), Data Science Workflow(Python SciComp family), Front-end Workflow(React, D3, Phaser), Game Development(Unity)
-- Intermediate: Statistical Workflow(RStudio, tidyverse, ggplot2), Front-end Workflow(Svelte), User Study Workflow, 3D Visualization Workflow(Three.js)
+- Intermediate: Statistical Workflow(RStudio, tidyverse, ggplot2, shiny), Front-end Workflow(Svelte), User Study Workflow, 3D Visualization Workflow(Three.js), Server Development(Flask)
 - Beginner: VR-development Workflow(Oculus Platform)
