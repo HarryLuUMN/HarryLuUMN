@@ -6,6 +6,13 @@ Hi, welcome to my webpage! My name is Yilin(Harry) Lu, and I’m pursuing my bac
 
 My current research interests are human-computer interactions, visualization, human-centered AI, and cognitive science. Currently, I’m primarily working with Prof. Qianwen Wang as a research & engineering lead at Visual Intelligence Lab, UMNTC. During my first freshman semester at the UMNTC, I was a science intern at TURBO Telescope Group at the Minnesota Institute for Astrophysics, where my work was crowdsourcing systems for science discovery, and my advisors were Prof. Patrick Kelly and Dr. Mandeep S Gill.
 
+## Research Interests
+
+- **Major Research Interests**: Human Computer Interaction, Human-centered AI, Cognitive Science
+- **Minor Research Interests**: Usable Scientific Research Tools, Educational Technologies, Game AI, Computational Social Science, Computational Creativity
+
+Recently,  got interested in the intersection of astronomy and HCI...
+
 ## Tech-stack
 
 I am proficient in full-stack data science, web visualization, and game development. 
