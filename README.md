@@ -17,4 +17,5 @@ My current research interests are human-computer interactions, visualization, hu
 ### Workflows
 
 - Advanced: ML Workflow(Pytorch, huggingface, Transformers), Data Science Workflow(Python SciComp family), Front-end Workflow(React, D3, Phaser), Game Development(Unity)
-- Intermediate: Statistical Workflow(RStudio, tidyverse, ggplot2), Front-end Workflow(Svelte), User Study Workflow
+- Intermediate: Statistical Workflow(RStudio, tidyverse, ggplot2), Front-end Workflow(Svelte), User Study Workflow, 3D Visualization Workflow(Three.js)
+- Beginner: VR-development Workflow(Oculus Platform)
