@@ -21,10 +21,10 @@ I am proficient in full-stack data science, web visualization, and game developm
 
 - Advanced: Typescript/Javascript, Python, Unity 3D
 - Intermediate: R, C/C++, Mathematica
-- Beginner: SQL, Java
+- Familiar: SQL, Java
 
 ### Workflows
 
-- Advanced: ML Workflow(Pytorch, huggingface, Transformers), Data Science Workflow(Python SciComp family), Front-end Workflow(React, D3, Phaser), Game Development(Unity)
+- Advanced: ML Workflow(Pytorch, huggingface, Transformers, OpenCV), Data Science Workflow(Python SciComp family), Front-end Workflow(React, D3, Phaser), Game Development(Unity)
 - Intermediate: Statistical Workflow(RStudio, tidyverse, ggplot2, shiny), Front-end Workflow(Svelte), User Study Workflow, 3D Visualization Workflow(Three.js), Server Development(Flask)
-- Beginner: VR-development Workflow(Oculus Platform)
+- Familiar: VR-development Workflow(Oculus Platform)
