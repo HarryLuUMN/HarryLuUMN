@@ -8,10 +8,7 @@ My current research interests are human-computer interactions, visualization, hu
 
 ## Research Interests
 
-- **Major Research Interests**: Human Computer Interaction, Human-centered AI, Cognitive Science
-- **Minor Research Interests**: Usable Scientific Research Tools, Educational Technologies, Game AI, Computational Social Science, Computational Creativity
-
-Recently,  got interested in the intersection of astronomy and HCI...
+- **Major Research Interests**: Human Computer Interaction, Human-centered AI, Explainable AI
 
 ## Tech-stack
 
@@ -20,14 +17,7 @@ I am proficient in full-stack data science, web visualization, and game developm
 ### Programming Skills
 
 - Advanced: Typescript/Javascript, Python, Unity 3D
-- Intermediate: R, C/C++, Mathematica
-- Familiar: SQL, Java
-
-### Workflows
-
-- Advanced: ML Workflow(Pytorch, huggingface, Transformers, OpenCV), Data Science Workflow(Python SciComp family), Front-end Workflow(React, D3, Phaser), Game Development(Unity, GameMaker Studio 2)
-- Intermediate: Statistical Workflow(RStudio, tidyverse, ggplot2, shiny), Front-end Workflow(Svelte), User Study Workflow, 3D Visualization Workflow(Three.js), Server Development(Flask)
-- Familiar: VR-development Workflow(Oculus Platform)
+- Intermediate: R, C/C++
 
 I like to reading books, sketching, and develop fun and weird games in my free time. 
 
