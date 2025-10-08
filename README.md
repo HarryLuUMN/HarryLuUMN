@@ -30,3 +30,5 @@ I am proficient in full-stack data science, web visualization, and game developm
 - Familiar: VR-development Workflow(Oculus Platform)
 
 I like to reading books, sketching, and develop fun and weird games in my free time. 
+
+<img src="https://algora.io/og/user/HarryLuUMN" />
