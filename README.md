@@ -16,8 +16,8 @@ I am proficient in full-stack data science, web visualization, and game developm
 
 ### Programming Skills
 
-- Advanced: Typescript/Javascript, Python, Unity 3D
-- Intermediate: R, C/C++
+- Programming Languages: Typescript/Javascript, Python, R, C/C++
+- Technical Frameworks: D3.js, React, Phaser.js, Unity 3D, GameMaker, PyTorch, LangGraph/LangChain, Python Data Science Family
 
 I like to reading books, sketching, and develop fun and weird games in my free time. 
 
