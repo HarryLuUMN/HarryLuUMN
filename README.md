@@ -8,7 +8,7 @@ My current research interests are human-computer interactions, visualization, hu
 
 ## Research Interests
 
-- **Major Research Interests**: Human Computer Interaction, Human-centered AI, Explainable AI, AI Agents and their applications in scientific discovery. 
+- **Major Research Interests**: Human Computer Interaction, Human-centered AI, Explainable AI, AI Agents, and computer applications in scientific discovery. 
 
 ## Tech-stack
 
