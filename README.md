@@ -12,7 +12,7 @@ My current research interests are human-computer interactions, visualization, hu
 
 ## Tech-stack
 
-I am proficient in full-stack data science, web visualization, and game development. 
+I am proficient in full-stack data science, web visualization, LLM applications (e.g., Agents, simulations, and RAG), and game development. 
 
 ### Programming Skills
 
