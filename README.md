@@ -21,4 +21,11 @@ I am proficient in full-stack data science, web visualization, LLM applications 
 
 I like to reading books, sketching, and develop fun and weird games in my free time. 
 
+
+## My Github stats
+
+<a href="https://github.com/leonardodalinky/">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leonardodalinky&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
+</a>
+
 <img src="https://algora.io/og/user/HarryLuUMN" />
