@@ -24,8 +24,8 @@ I like to reading books, sketching, and develop fun and weird games in my free t
 
 ## Top Languages
 
-<a href="https://github.com/leonardodalinky/">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodalinky&layout=compact&theme=dracula&langs_count=6&exclude_repo=lpsolve-android" />
+<a href="https://github.com/HarryLuUMN/">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLuUMN&layout=compact&theme=dracula&langs_count=6&exclude_repo=lpsolve-android" />
 </a>
 
 <img src="https://algora.io/og/user/HarryLuUMN" />
