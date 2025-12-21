@@ -21,11 +21,4 @@ I am proficient in full-stack data science, web visualization, LLM applications 
 
 I like to reading books, sketching, and develop fun and weird games in my free time. 
 
-
-## Top Languages
-
-<a href="https://github.com/HarryLuUMN/">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLuUMN&layout=compact&theme=dracula&langs_count=6&exclude_repo=lpsolve-android" />
-</a>
-
 <img src="https://algora.io/og/user/HarryLuUMN" />
