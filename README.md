@@ -1,24 +1,126 @@
+<div align="center">
+
 # Yilin "Harry" Lu
 
-## Bio
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=650&lines=Human-Centered+AI+Researcher;Visualization+%7C+AI+Agents+%7C+Scientific+Discovery;Computer+Science+%2B+Mathematics+%2B+Quantitative+Economics"/>
 
-Hi, welcome to my webpage! My name is Yilin(Harry) Lu, and I’m pursuing my bachelor’s degree(with honors) at the University of Minnesota, Twin Cities. I'm a triple-major Computer Science, Mathematics, and Quantitative Economics student. I also minor in Statistical Science, emphasizing Astro-Informatics(Data Science in Astrophysics). Before college, I studied Mathematics at San Diego State University through the Dual Enrollment Option and graduated from Torrey Pines High School in California, USA. 
+University of Minnesota Twin Cities  
 
-My current research interests are human-computer interactions, visualization, and natural language processing. Currently, I’m primarily working with Prof. Qianwen Wang as a research & engineering lead at Visual Intelligence Lab, UMNTC. My primary research interest there is "Sensemaking AI Systems for Non-AI Experts". I also work with Prof. Qingyun Wang at William and Mary on Agentic Memory for Scientific Discovery. During my first freshman semester at the UMNTC, I was a science intern at TURBO Telescope Group at the Minnesota Institute for Astrophysics, where my work was crowdsourcing systems for science discovery, and my advisors were Prof. Patrick Kelly and Dr. Mandeep S Gill.
+Computer Science · Mathematics · Quantitative Economics  
 
-## Research Interests
+<img src="https://komarev.com/ghpvc/?username=HarryLuUMN&color=blue" />
 
-- **Major Research Interests**: Human Computer Interaction, Human-centered AI, Explainable AI, AI Agents, and computer applications in scientific discovery. 
+</div>
 
-## Tech-stack
+---
 
-I am proficient in full-stack data science, web visualization, LLM applications (e.g., agents, simulations, and retrieval augmented generation), and game development. 
+# About Me
 
-### Programming Skills
+Hi! I'm **Yilin (Harry) Lu**, an undergraduate researcher at the **University of Minnesota Twin Cities**, pursuing a **triple major in Computer Science, Mathematics, and Quantitative Economics**, with a minor in **Statistical Science (Astro-Informatics)**.
 
-- Programming Languages: Typescript/Javascript, Python, R, C/C++
-- Technical Frameworks: D3.js, React, Phaser.js, Unity 3D, GameMaker, PyTorch, LangGraph/LangChain, Python Data Science Family, Jupyter Widget Development. 
+My work focuses on **AI systems that help humans think better** — especially through **visualization, interactive systems, and intelligent agents**.
 
-I like to reading books, sketching, and develop fun and weird games in my free time. 
+Currently:
+
+- **Research & Engineering Lead** — Visual Intelligence Lab (UMN)  
+  Advisor: Prof. Qianwen Wang
+
+- **Research Collaborator** — William & Mary  
+  Topic: Agentic Memory for Scientific Discovery
+
+Previously:
+
+- **Science Intern** — Minnesota Institute for Astrophysics  
+  Advisors: Prof. Patrick Kelly & Dr. Mandeep Gill
+
+Before college, I studied **Mathematics at San Diego State University** through the Dual Enrollment Program and graduated from **Torrey Pines High School (CA)**.
+
+---
+
+# Research Interests
+
+- Human-Computer Interaction
+- Human-Centered AI
+- Explainable AI
+- Visualization
+- AI Agents
+- AI for Scientific Discovery
+
+---
+
+# Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,r,cpp" />
+
+</p>
+
+### Frameworks & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,unity,pytorch,nodejs" />
+
+</p>
+
+Technologies I frequently use:
+
+- D3.js
+- LangGraph / LangChain
+- Phaser.js
+- Jupyter Widget Development
+- Python Data Science Stack
+
+---
+
+# Research Projects
+
+### GNN Explorer
+Interactive visualization library for **Graph Neural Networks**, enabling exploration of graph structures, model architectures, and intermediate representations.
+
+### Agentopia
+Game-based framework for studying **LLM agent behavior and hallucination mitigation** in multi-agent environments.
+
+### SciEvo
+Multi-agent AI research assistant system supporting **idea generation, dataset search, and experiment design**.
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarryLuUMN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLuUMN&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryLuUMN&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Interests Outside Research
+
+In my free time, I enjoy:
+
+- Reading books
+- Sketching
+- Designing experimental and weird games
+
+I’m particularly interested in building **interactive systems that combine storytelling, visualization, and artificial intelligence**.
+
+---
 
 <img src="https://algora.io/og/user/HarryLuUMN" />
