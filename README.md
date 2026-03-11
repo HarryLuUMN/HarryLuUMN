@@ -88,30 +88,7 @@ Game-based framework for studying **LLM agent behavior and hallucination mitigat
 Multi-agent AI research assistant system supporting **idea generation, dataset search, and experiment design**.
 
 ---
-
-# GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarryLuUMN&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLuUMN&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryLuUMN&theme=tokyo-night"/>
-
-</p>
-
----
-
-# Interests Outside Research
+Outside Research
 
 In my free time, I enjoy:
 
@@ -122,5 +99,3 @@ In my free time, I enjoy:
 I’m particularly interested in building **interactive systems that combine storytelling, visualization, and artificial intelligence**.
 
 ---
-
-<img src="https://algora.io/og/user/HarryLuUMN" />
