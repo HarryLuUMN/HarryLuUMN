@@ -2,7 +2,7 @@
 
 # Yilin "Harry" Lu
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=650&lines=Human-Centered+AI+Researcher;Visualization+%7C+AI+Agents+%7C+Scientific+Discovery;Computer+Science+%2B+Mathematics+%2B+Quantitative+Economics"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=650&lines=Human-Centered+AI+Researcher;Visualization+%7C+AI+Agents+%7C+AI4Science;Computer+Science+%2B+Mathematics+%2B+Economics"/>
 
 University of Minnesota Twin Cities  
 
