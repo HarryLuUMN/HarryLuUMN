@@ -24,8 +24,10 @@ Currently:
 
 - **Research & Engineering Lead** — Visual Intelligence Lab (UMN)  
   Advisor: Prof. Qianwen Wang
+  Topic: AI Sensemaking for Non-expert Users
 
-- **Research Collaborator** — William & Mary  
+- **Research Collaborator** — William & Mary
+  Advisor: Prof. Qingyun Wang  
   Topic: Agentic Memory for Scientific Discovery
 
 Previously:
@@ -78,7 +80,7 @@ Technologies I frequently use:
 
 # Research Projects
 
-### GNN Explorer
+### GNN Explorer & GNN101
 Interactive visualization library for **Graph Neural Networks**, enabling exploration of graph structures, model architectures, and intermediate representations.
 
 ### Agentopia
@@ -86,16 +88,5 @@ Game-based framework for studying **LLM agent behavior and hallucination mitigat
 
 ### SciEvo
 Multi-agent AI research assistant system supporting **idea generation, dataset search, and experiment design**.
-
----
-Outside Research
-
-In my free time, I enjoy:
-
-- Reading books
-- Sketching
-- Designing experimental and weird games
-
-I’m particularly interested in building **interactive systems that combine storytelling, visualization, and artificial intelligence**.
 
 ---
