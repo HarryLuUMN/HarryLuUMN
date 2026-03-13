@@ -22,13 +22,13 @@ My work focuses on **AI systems that help humans think better** — especially t
 
 Currently:
 
-- **Research & Engineering Lead** — Visual Intelligence Lab (UMN)  
-  Advisor: Prof. Qianwen Wang
-  Topic: AI Sensemaking for Non-expert Users
+- **Research & Engineering Lead** — Visual Intelligence Lab (UMN)
+  - Advisor: Prof. Qianwen Wang
+  - Topic: AI Sensemaking for Non-expert Users
 
-- **Research Collaborator** — William & Mary
-  Advisor: Prof. Qingyun Wang  
-  Topic: Agentic Memory for Scientific Discovery
+- **Research Intern** — William & Mary
+  - Advisor: Prof. Qingyun Wang  
+  - Topic: Agentic Memory for Scientific Discovery
 
 Previously:
 
