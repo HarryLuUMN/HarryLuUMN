@@ -86,7 +86,7 @@ Interactive visualization library for **Graph Neural Networks**, enabling explor
 ### Agentopia
 Game-based framework for studying **LLM agent behavior and hallucination mitigation** in multi-agent environments.
 
-### SciEvo
+### SciDER
 Multi-agent AI research assistant system supporting **idea generation, dataset search, and experiment design**.
 
 ---
