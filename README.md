@@ -16,24 +16,23 @@ Computer Science · Mathematics · Quantitative Economics
 
 # About Me
 
-Hi! I'm **Yilin (Harry) Lu**, an undergraduate researcher at the **University of Minnesota Twin Cities**, pursuing a **triple major in Computer Science, Mathematics, and Quantitative Economics**, with a minor in **Statistical Science (Astro-Informatics)**.
+Hi! I'm **Yilin (Harry) Lu**, an undergraduate researcher at the **University of Minnesota Twin Cities**, pursuing a **triple major in Computer Science, Mathematics, and Quantitative Economics**, with a minor in **Statistical Science (Astro-Informatics)**. 
 
-My work focuses on **AI systems that help humans think better** — especially through **visualization, interactive systems, and intelligent agents**.
+My research interests mainly focus in two directions: (1) develop interactive systems to help non-AI experts make sense with AI; (2) develop Human-AI collaborative technologies for scientific discovery. 
 
-Currently:
+My Research Experience:
 
-- **Research & Engineering Lead** — Visual Intelligence Lab (UMN)
+- **Research & Engineering Lead** — University of Minnesota (Jan 2024 - Present)
   - Advisor: Prof. Qianwen Wang
   - Topic: AI Sensemaking for Non-expert Users
 
-- **Research Intern** — William & Mary
+- **Research Intern** — William & Mary (Nov 2025 - Present)
   - Advisor: Prof. Qingyun Wang  
   - Topic: Agentic Memory for Scientific Discovery
 
-Previously:
-
-- **Science Intern** — Minnesota Institute for Astrophysics  
-  Advisors: Prof. Patrick Kelly & Dr. Mandeep Gill
+- **Science Intern** — Minnesota Institute for Astrophysics (Sept 2023 - May 2024)  
+  - Advisors: Prof. Patrick Kelly & Dr. Mandeep Gill
+  - Topic: Crowdsourcing Systems for Scientific Discovery
 
 Before college, I studied **Mathematics at San Diego State University** through the Dual Enrollment Program and graduated from **Torrey Pines High School (CA)**.
 
@@ -41,12 +40,7 @@ Before college, I studied **Mathematics at San Diego State University** through 
 
 # Research Interests
 
-- Human-Computer Interaction
-- Human-Centered AI
-- Explainable AI
-- Visualization
-- AI Agents
-- AI for Scientific Discovery
+Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Scientific Discovery. 
 
 ---
 
