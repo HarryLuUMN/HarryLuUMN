@@ -17,7 +17,7 @@ Computer Science · Mathematics · Quantitative Economics
 
 - **[GNN101](https://visual-intelligence-umn.github.io/GNN-101/)** - an interactive visualization tool for graph neural networks.
 - **[Agentopia](https://github.com/Visual-Intelligence-UMN/The-Agentopia-Times)** - a framework that helps you understand LLM behaviors in multi-agent systems.
-- **[SciDER](https://harryluumn.github.io/scider-proj-page/)** - an AI scientist that follows data-centric principles and self-evolved memory.
+- **[SciDER](https://harryluumn.github.io/scider-proj-page/)** - an AI scientist that integrates data-centric principles and self-evolved memory.
 - **[gnn-exp](https://pypi.org/project/gnn-exp/0.1.0/)** - a Python package for graph neural network visualization.
 - **[LargeGraphs.jl](https://github.com/HarryLuUMN/LargeGraphs.jl)** - a webGL-based package for large graph rendering in Julia.
 - **[DigitalDrifting](https://harrylu0708.shinyapps.io/digital-convergence/)** - a web visualization for digital growth identification in the US.   
