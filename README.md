@@ -13,8 +13,17 @@ Computer Science · Mathematics · Quantitative Economics
 </div>
 
 ---
+## Projects
 
-# About Me
+- **[GNN101](https://visual-intelligence-umn.github.io/GNN-101/)** - An interactive visualization tool for graph neural networks.
+- **[Agentopia](https://github.com/Visual-Intelligence-UMN/The-Agentopia-Times)** - A framework that helps you understand LLM behaviors in multi-agent systems.
+- **[SciDER](https://harryluumn.github.io/scider-proj-page/)** - An AI scientist that follows data-centric principles and self-evolved memory.
+- **[LargeGraphs.jl](https://github.com/HarryLuUMN/LargeGraphs.jl)** - A webGL-based package for large graph rendering in Julia.
+- **[DigitalDrifting](https://harrylu0708.shinyapps.io/digital-convergence/)** - A web visualization for digital growth identification in the US.   
+- **[ScholaVIS](https://github.com/Visual-Intelligence-UMN/scholawrite-vis)** - A visual analytic toolkit for scholarly writing behaviorial analysis. 
+---
+
+## About Me
 
 Hi! I'm **Yilin (Harry) Lu**, an undergraduate researcher at the **University of Minnesota Twin Cities**, pursuing a **triple major in Computer Science, Mathematics, and Quantitative Economics**, with a minor in **Statistical Science (Astro-Informatics)**. 
 
@@ -38,13 +47,13 @@ Before college, I studied **Mathematics at San Diego State University** through 
 
 ---
 
-# Research Interests
+## Research Interests
 
 Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Scientific Discovery. 
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 #### Programming Languages
 
