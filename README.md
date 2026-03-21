@@ -46,7 +46,7 @@ Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Sci
 
 # Tech Stack
 
-### Programming Languages
+#### Programming Languages
 
 <p>
 
@@ -54,7 +54,7 @@ Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Sci
 
 </p>
 
-### Frameworks & Tools
+#### Frameworks & Tools
 
 <p>
 
@@ -62,25 +62,6 @@ Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Sci
 
 </p>
 
-Technologies I frequently use:
-
-- D3.js
-- LangGraph / LangChain
-- Phaser.js
-- Jupyter Widget Development
-- Python Data Science Stack
-
----
-
-# Research Projects
-
-### GNN Explorer & GNN101
-Interactive visualization library for **Graph Neural Networks**, enabling exploration of graph structures, model architectures, and intermediate representations.
-
-### Agentopia
-Game-based framework for studying **LLM agent behavior and hallucination mitigation** in multi-agent environments.
-
-### SciDER
-Multi-agent AI research assistant system supporting **idea generation, dataset search, and experiment design**.
+Technologies I frequently use: D3.js, LangGraph / LangChain, Jupyter Widget Development, Python Data Science Stack. 
 
 ---
