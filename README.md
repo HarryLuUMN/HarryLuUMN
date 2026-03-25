@@ -22,7 +22,7 @@ Computer Science · Mathematics · Quantitative Economics
 - **[LargeGraphs.jl](https://github.com/HarryLuUMN/LargeGraphs.jl)** - a webGL-based package for large graph rendering in Julia.
 - **[DigitalDrifting](https://harrylu0708.shinyapps.io/digital-convergence/)** - a web visualization for digital growth identification in the US.   
 - **[ScholaVIS](https://github.com/Visual-Intelligence-UMN/scholawrite-vis)** - a visual analytic toolkit for scholarly writing behaviorial analysis. 
-- **[Kandor](https://github.com/HarryLuUMN/sim-llm-game)** - an LLM-based simulation engine for world building with a temporal KG memory bank. 
+- **[Kandor](https://github.com/HarryLuUMN/kandor)** - an LLM-based simulation engine for world building with a temporal KG memory bank. 
 ---
 
 ## About Me
