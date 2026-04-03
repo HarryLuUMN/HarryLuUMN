@@ -65,7 +65,7 @@ Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Sci
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,r,cpp" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,julia,r,cpp" />
 
 </p>
 
