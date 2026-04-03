@@ -33,6 +33,10 @@ My research interests mainly focus in two directions: (1) develop interactive sy
 
 My Research Experience:
 
+- **Research Intern (Fully-funded) ** — University of Pennsylvania (incoming)
+  - Advisor: Prof. Andrew Head
+  - Topic: Interactive Systems for Scientific Reasoning and Research
+
 - **Research & Engineering Lead** — University of Minnesota (Jan 2024 - Present)
   - Advisor: Prof. Qianwen Wang
   - Topic: AI Sensemaking for Non-expert Users
