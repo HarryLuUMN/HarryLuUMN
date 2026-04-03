@@ -33,7 +33,7 @@ My research interests mainly focus in two directions: (1) develop interactive sy
 
 My Research Experience:
 
-- **Research Intern (Fully-funded) ** — University of Pennsylvania (incoming)
+- **Research Intern (Fully-funded)** — University of Pennsylvania (incoming)
   - Advisor: Prof. Andrew Head
   - Topic: Interactive Systems for Scientific Reasoning and Research
 
