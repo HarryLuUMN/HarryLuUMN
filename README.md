@@ -45,7 +45,7 @@ My Research Experience:
   - Advisor: Prof. Qingyun Wang  
   - Topic: Agentic Memory for Scientific Discovery
 
-- **Science Intern** — Minnesota Institute for Astrophysics (Sept 2023 - May 2024)  
+- **Research Intern** — Minnesota Institute for Astrophysics (Sept 2023 - May 2024)  
   - Advisors: Prof. Patrick Kelly & Dr. Mandeep Gill
   - Topic: Crowdsourcing Systems for Scientific Discovery
 
