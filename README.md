@@ -35,7 +35,7 @@ My Research Experience:
 
 - **Research Intern (Fully-funded)** — University of Pennsylvania (incoming)
   - Advisor: Prof. Andrew Head
-  - Topic: Interactive Systems for Scientific Reasoning and Research
+  - Topic: Interactive Scientific Document Understanding 
 
 - **Research & Engineering Lead** — University of Minnesota (Jan 2024 - Present)
   - Advisor: Prof. Qianwen Wang
