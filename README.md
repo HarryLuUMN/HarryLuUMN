@@ -33,15 +33,15 @@ My research interests mainly focus in two directions: (1) develop interactive sy
 
 My Research Experience:
 
-- **Research Intern (Fully-funded)** — University of Pennsylvania (incoming)
+- **Research Project Lead (Fully-funded)** — University of Pennsylvania (incoming)
   - Advisor: Prof. Andrew Head
   - Topic: Interactive Scientific Document Understanding 
 
-- **Research & Engineering Lead** — University of Minnesota (Jan 2024 - Present)
+- **Research Project Lead** — University of Minnesota (Jan 2024 - Present)
   - Advisor: Prof. Qianwen Wang
   - Topic: AI Sensemaking for Non-expert Users
 
-- **Research Intern** — William & Mary (Nov 2025 - Present)
+- **Research Project Lead** — William & Mary (Nov 2025 - Present)
   - Advisor: Prof. Qingyun Wang  
   - Topic: Agentic Memory for Scientific Discovery
 
