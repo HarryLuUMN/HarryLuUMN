@@ -35,7 +35,7 @@ My Research Experience:
 
 - **Research Project Lead (Fully-funded)** — University of Pennsylvania (incoming)
   - Advisor: Prof. Andrew Head
-  - Topic: Interactive Scientific Document Understanding 
+  - Topic: Interactive Scientific Research Simulation 
 
 - **Research Project Lead** — University of Minnesota (Jan 2024 - Present)
   - Advisor: Prof. Qianwen Wang
