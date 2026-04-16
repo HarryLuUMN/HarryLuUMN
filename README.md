@@ -55,7 +55,7 @@ Before college, I studied **Mathematics at San Diego State University** through 
 
 ## Research Interests
 
-Human-Computer Interaction, Explainable AI, Visualization, AI Agents, AI for Scientific Discovery. 
+Human-Computer Interaction, Explainable AI, Visualization, AI Agents, Agentic Memory, AI for Scientific Discovery. 
 
 ---
 
