@@ -47,7 +47,7 @@ My Research Experience:
 
 - **Research Project Lead** — William & Mary (Nov 2025 - Present)
   - Advisor: Prof. Qingyun Wang  
-  - Topic: Agentic Memory for Scientific Discovery
+  - Topic: Autonomous Scientific Discovery
 
 - **Research Intern** — Minnesota Institute for Astrophysics (Sept 2023 - May 2024)  
   - Advisors: Prof. Patrick Kelly & Dr. Mandeep Gill
