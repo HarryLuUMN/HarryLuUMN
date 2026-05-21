@@ -41,9 +41,9 @@ My Research Experience:
   - Advisor: Prof. Qianwen Wang
   - Topic: AI Sensemaking for Non-expert Users
 
-- **Research Intern** — Hong Kong University of Science and Technology (April 2026 - Present)
-  - Advisor: Prof. Yi R. (May) Fung
-  - Topic: Persistent Knowledge Base for LLM 
+- **Research Intern** — Northwestern University (May 2026 - Present)
+  - Advisor: Prof. Jessica Hullman
+  - Topic: Human-AI Collaborative Decision Making in Scientific Research 
 
 - **Research Project Lead** — William & Mary (Nov 2025 - Present)
   - Advisor: Prof. Qingyun Wang  
