@@ -41,7 +41,7 @@ My Research Experience:
   - Advisor: Prof. Qianwen Wang
   - Topic: AI Sensemaking for Non-expert Users
 
-- **Research Intern** — Northwestern University (May 2026 - Present)
+- **Research Intern (Funded)** — Northwestern University (May 2026 - Present)
   - Advisor: Prof. Jessica Hullman
   - Topic: Human-AI Collaborative Decision Making in Scientific Research 
 
