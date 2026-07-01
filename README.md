@@ -22,7 +22,8 @@ Computer Science · Mathematics · Quantitative Economics
 - **[LargeGraphs.jl](https://github.com/HarryLuUMN/LargeGraphs.jl)** - a webGL-based package for large graph rendering in Julia.
 - **[DigitalDrifting](https://harrylu0708.shinyapps.io/digital-convergence/)** - a web visualization for digital growth identification in the US.   
 - **[ScholaVIS](https://github.com/Visual-Intelligence-UMN/scholawrite-vis)** - a visual analytic toolkit for scholarly writing behaviorial analysis. 
-- **[Kandor](https://github.com/HarryLuUMN/kandor)** - an LLM-based simulation engine for world building with a temporal KG memory bank. 
+- **[Kandor](https://github.com/HarryLuUMN/kandor)** - an LLM-based simulation engine for world building with a temporal KG memory bank.
+- **[AutoDSL-Eval](https://harryluumn.github.io/auto-dsl-eval/)** - an automatic DSL evaluation framework for PL researchers. 
 ---
 
 ## About Me
@@ -35,7 +36,7 @@ My Research Experience:
 
 - **Research Project Lead (Fully-funded)** — University of Pennsylvania (incoming)
   - Advisor: Prof. Andrew Head
-  - Topic: Interactive Scientific Research Simulation 
+  - Topic: Autonomous HCI Research 
 
 - **Research Project Lead** — University of Minnesota (Jan 2024 - Present)
   - Advisor: Prof. Qianwen Wang
