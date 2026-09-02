@@ -23,7 +23,6 @@ Computer Science · Mathematics · Quantitative Economics
 - **[DigitalDrifting](https://harrylu0708.shinyapps.io/digital-convergence/)** - a web visualization for digital growth identification in the US.   
 - **[ScholaVIS](https://github.com/Visual-Intelligence-UMN/scholawrite-vis)** - a visual analytic toolkit for scholarly writing behaviorial analysis. 
 - **[Kandor](https://github.com/HarryLuUMN/kandor)** - an LLM-based simulation engine for world building with a temporal KG memory bank.
-- **[AutoDSL-Eval](https://harryluumn.github.io/auto-dsl-eval/)** - an automatic PL evaluation framework for PL researchers. 
 ---
 
 ## About Me
