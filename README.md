@@ -33,7 +33,7 @@ My research interests mainly focus in two directions: (1) develop interactive sy
 
 My Research Experience:
 
-- **Research Project Lead (Fully-funded)** — University of Pennsylvania (incoming)
+- **Research Project Lead (Fully-funded)** — University of Pennsylvania (April 2026 - Present)
   - Advisor: Prof. Andrew Head
   - Topic: Autonomous HCI Research 
 
