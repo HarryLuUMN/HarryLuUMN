@@ -6,7 +6,7 @@
 
 University of Minnesota Twin Cities  
 
-Computer Science · Mathematics · Quantitative Economics  
+Computing · Mathematics · Economics · Statistics  
 
 <img src="https://komarev.com/ghpvc/?username=HarryLuUMN&color=blue" />
 
