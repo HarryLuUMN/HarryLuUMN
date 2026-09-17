@@ -23,12 +23,12 @@ Computing · Mathematics · Economics · Statistics
 - **[DigitalDrifting](https://harrylu0708.shinyapps.io/digital-convergence/)** - a web visualization for digital growth identification in the US.   
 - **[ScholaVIS](https://github.com/Visual-Intelligence-UMN/scholawrite-vis)** - a visual analytic toolkit for scholarly writing behaviorial analysis. 
 - **[Kandor](https://github.com/HarryLuUMN/kandor)** - an LLM-based simulation engine for world building with a temporal KG memory bank.
-- **[SciGeometry](https://github.com/HarryLuUMN/SciGeometry)** - A graph learning representation framework for scientific opportunity allocation. 
+- **[SciGeometry](https://github.com/HarryLuUMN/SciGeometry)** - a graph learning representation framework for scientific opportunity allocation. 
 ---
 
 ## About Me
 
-Hi! I'm **Yilin (Harry) Lu**, an undergraduate researcher at the **University of Minnesota Twin Cities**, pursuing a **triple major in Computer Science, Mathematics, and Quantitative Economics**, with a minor in **Statistical Science (Astro-Informatics)**. 
+Hi! I'm **Yilin (Harry) Lu**, an undergraduate researcher at the **University of Minnesota Twin Cities**, pursuing a **triple major in Computer Science, Mathematics, and Quantitative Economics**, with a minor in **Statistical Science**. 
 
 My research interests mainly focus in two directions: (1) develop interactive systems to help non-AI experts make sense with AI; (2) develop Human-AI collaborative technologies for scientific discovery. 
 
