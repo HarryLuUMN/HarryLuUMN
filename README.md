@@ -8,7 +8,7 @@ University of Minnesota Twin Cities
 
 Computing · Mathematics · Economics · Statistics  
 
-<img src="https://komarev.com/ghpvc/?username=HarryLuUMN&color=blue" />
+<!-- <img src="https://komarev.com/ghpvc/?username=HarryLuUMN&color=blue" /> -->
 
 </div>
 
